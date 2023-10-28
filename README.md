@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Odin Boilerplate
 
 > One paragraph statement about the project.
 
